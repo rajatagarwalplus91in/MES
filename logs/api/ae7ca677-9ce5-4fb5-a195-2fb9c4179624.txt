@@ -1,0 +1,24 @@
+{
+    "dtRequestTime": "2023-01-07T06:30:24.366Z",
+    "sEndpoint": "/admins/email-account-families/9e72a962-c019-403c-8476-f8cb34807760",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIn0.rCzXzbOcwSnSEanXgh-DgT9dd2Y2Tymeyzm91hX1zck",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "postman-token": "8fafcc65-4fd9-4f38-80c9-26dc216c2b08",
+        "host": "192.168.0.74:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive",
+        "content-length": "0"
+    },
+    "sRequestType": "POST",
+    "sRequestBody": {},
+    "sResponseCode": 404,
+    "sIP": "::ffff:192.168.0.50",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "dtRequestTime": "2023-01-05T08:22:36.161Z",
+    "sEndpoint": "/",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzI5MDUxODQsImV4cCI6MTY3MjkwODc4NH0.L4ElaPpAznThEHoNEVpPligPpmt1yh13hC1pNOcs5sM",
+        "content-type": "application/json",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "cache-control": "no-cache",
+        "postman-token": "256007d7-8ab8-4846-b9e4-58b9c3f3120c",
+        "host": "localhost:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive",
+        "content-length": "155"
+    },
+    "sRequestType": "POST",
+    "sRequestBody": {
+        "sClientName": "App 2",
+        "sClientSecret": "347f7674480e55dd0eb1bdc1e5607700",
+        "aAllowedEmailAccounts": [
+            "9b984c0e-aa32-43b7-abad-465404c6ff31"
+        ]
+    },
+    "sResponseCode": 200,
+    "sIP": "::1",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}

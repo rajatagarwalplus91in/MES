@@ -1,0 +1,25 @@
+{
+    "dtRequestTime": "2023-01-06T09:33:32.843Z",
+    "sEndpoint": "/",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzI5OTcwMzIsImV4cCI6MTY3MzAwMDYzMn0.N60nsH1Clxy8UG7fdlbgYCmn6qUPz1MkH-W8_nBquCk",
+        "content-type": "text/plain",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "postman-token": "92399d2d-5cb1-4b08-9468-42a377a92b2c",
+        "host": "192.168.0.74:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive",
+        "content-length": "100"
+    },
+    "sRequestType": "GET",
+    "sRequestBody": {},
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.0.50",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}

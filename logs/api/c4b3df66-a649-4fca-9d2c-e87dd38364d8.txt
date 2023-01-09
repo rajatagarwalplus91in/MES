@@ -1,0 +1,33 @@
+{
+    "dtRequestTime": "2023-01-05T09:05:00.224Z",
+    "sEndpoint": "/29d6d351-d5ba-4216-855c-48440a60cafa",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzI5MDkyOTEsImV4cCI6MTY3MjkxMjg5MX0.oAcoY8G3WJhE42n9zq_cPtmH9FfxFYWXy0N8tEg7he4",
+        "content-type": "application/json",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "cache-control": "no-cache",
+        "postman-token": "69e508a7-2e7a-4dcf-90e4-820a66e17dbf",
+        "host": "localhost:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive",
+        "content-length": "176"
+    },
+    "sRequestType": "PUT",
+    "sRequestBody": {
+        "sClientName": "Meta 1002",
+        "sFreeze": 1,
+        "sClientSecret": "347f7674480e55dd0eb1bdc1e56077db",
+        "aAllowedEmailAccounts": [
+            "bfc7f81d-3e75-4381-9eba-c54633f44cbc"
+        ]
+    },
+    "sResponseCode": 200,
+    "sIP": "::1",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}

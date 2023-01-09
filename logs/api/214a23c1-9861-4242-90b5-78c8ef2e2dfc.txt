@@ -1,0 +1,24 @@
+{
+    "dtRequestTime": "2023-01-05T09:01:22.002Z",
+    "sEndpoint": "/90809800-8911-41c5-a2d1-764f7080c0e1",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzI5MDUxODQsImV4cCI6MTY3MjkwODc4NH0.L4ElaPpAznThEHoNEVpPligPpmt1yh13hC1pNOcs5sM",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "cache-control": "no-cache",
+        "postman-token": "37139215-455f-4f93-b5df-1357e9b65710",
+        "host": "localhost:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive"
+    },
+    "sRequestType": "DELETE",
+    "sRequestBody": {},
+    "sResponseCode": 401,
+    "sIP": "::1",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}
