@@ -1,0 +1,27 @@
+{
+    "dtRequestTime": "2023-01-10T10:16:37.567Z",
+    "sEndpoint": "/",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzMzNDU1NzcsImV4cCI6MTY3MzM0OTE3N30.beHdlE7OyRvUW9B1T3rCyVBd-shva7cAFT7-HOHi1A0",
+        "content-type": "application/json",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "postman-token": "c8745026-1604-4d7d-a7d5-bb711c760326",
+        "host": "192.168.68.62:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive",
+        "content-length": "1728"
+    },
+    "sRequestType": "POST",
+    "sRequestBody": {
+        "query": "\n    query IntrospectionQuery {\n      __schema {\n        queryType { name }\n        mutationType { name }\n        subscriptionType { name }\n        types {\n          ...FullType\n        }\n        directives {\n          name\n          description\n          locations\n          args {\n            ...InputValue\n          }\n        }\n      }\n    }\n\n    fragment FullType on __Type {\n      kind\n      name\n      description\n      fields(includeDeprecated: true) {\n        name\n        description\n        args {\n          ...InputValue\n        }\n        type {\n          ...TypeRef\n        }\n        isDeprecated\n        deprecationReason\n      }\n      inputFields {\n        ...InputValue\n      }\n      interfaces {\n        ...TypeRef\n      }\n      enumValues(includeDeprecated: true) {\n        name\n        description\n        isDeprecated\n        deprecationReason\n      }\n      possibleTypes {\n        ...TypeRef\n      }\n    }\n\n    fragment InputValue on __InputValue {\n      name\n      description\n      type { ...TypeRef }\n      defaultValue\n    }\n\n    fragment TypeRef on __Type {\n      kind\n      name\n      ofType {\n        kind\n        name\n        ofType {\n          kind\n          name\n          ofType {\n            kind\n            name\n            ofType {\n              kind\n              name\n              ofType {\n                kind\n                name\n                ofType {\n                  kind\n                  name\n                  ofType {\n                    kind\n                    name\n                  }\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  "
+    },
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.68.83",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}

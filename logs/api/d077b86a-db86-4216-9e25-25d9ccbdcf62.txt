@@ -1,0 +1,28 @@
+{
+    "dtRequestTime": "2023-01-11T05:15:33.320Z",
+    "sEndpoint": "/23623701-340d-4346-aa92-635dbb26d325",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzM0MTMzMDAsImV4cCI6MTY3MzQxNjkwMH0.J1bcJO6eFOsgizYmayA67w_pgUJ3Ni70pkMzbe9Kw30",
+        "content-type": "application/json",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "postman-token": "7dc9086e-badf-4764-bc68-53dd1e157c91",
+        "host": "192.168.68.62:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive",
+        "content-length": "96"
+    },
+    "sRequestType": "GET",
+    "sRequestBody": {
+        "sClientName": "sage",
+        "aAllowedEmailAccounts": "30b19131-55a4-4ec8-a95c-548b0b1c987d"
+    },
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.68.83",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}

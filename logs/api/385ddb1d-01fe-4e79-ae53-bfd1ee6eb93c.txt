@@ -1,0 +1,46 @@
+{
+    "dtRequestTime": "2023-01-11T06:25:04.446Z",
+    "sEndpoint": "/1bd6a259-e388-4bc5-a178-10a905ec78be",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIn0.rCzXzbOcwSnSEanXgh-DgT9dd2Y2Tymeyzm91hX1zck",
+        "content-type": "application/json",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "postman-token": "960d19ba-a238-4bb8-b867-52d75f288a4c",
+        "host": "192.168.68.62:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive",
+        "content-length": "530"
+    },
+    "sRequestType": "GET",
+    "sRequestBody": {
+        "sAccountName": "icic",
+        "aAllowedSenders": [
+            {
+                "sName": "rakesh",
+                "sEmail": "rk"
+            },
+            {
+                "sName": "mukesh",
+                "sEmail": "mk"
+            }
+        ],
+        "aCredentials": [
+            {
+                "sHostName": "email-smtp.us-west-2.amazonaws.com",
+                "sPort": "587",
+                "sSecureProtocol": "tls",
+                "sUsername": "AKIA4QTEY35AAEFQ5CFU",
+                "sPassword": "BPHF78D8AboM6d5GP/k/Os2uPJ0EQoqQnA9lddv868gv"
+            }
+        ]
+    },
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.68.83",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}

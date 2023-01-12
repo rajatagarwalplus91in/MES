@@ -1,0 +1,28 @@
+{
+    "dtRequestTime": "2023-01-10T10:56:32.895Z",
+    "sEndpoint": "/b07ac42d-e518-4855-926b-6031ea9277e7",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzMzNDU1NzcsImV4cCI6MTY3MzM0OTE3N30.beHdlE7OyRvUW9B1T3rCyVBd-shva7cAFT7-HOHi1A0",
+        "content-type": "application/json",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "postman-token": "fe6e9994-2e37-42b2-999c-401e84839dc1",
+        "host": "192.168.0.74:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive",
+        "content-length": "105"
+    },
+    "sRequestType": "PUT",
+    "sRequestBody": {
+        "sClientName": "jay",
+        "aAllowedEmailAccounts": "30b19131-55a4-4ec8-a95c-548b0b1c987d"
+    },
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.0.50",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}

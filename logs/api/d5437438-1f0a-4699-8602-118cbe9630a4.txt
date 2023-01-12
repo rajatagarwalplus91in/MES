@@ -1,0 +1,28 @@
+{
+    "dtRequestTime": "2023-01-10T11:54:01.968Z",
+    "sEndpoint": "/admins/clients",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzMzNDkxODYsImV4cCI6MTY3MzM1Mjc4Nn0.dHaDfj4XP4vplTigdnFp_jyQgG3kKpSoWCUFLZlwYwY",
+        "content-type": "application/json",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "postman-token": "1ec5147a-c5f2-4628-8859-5aa05946dfc9",
+        "host": "192.168.68.62:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive",
+        "content-length": "99"
+    },
+    "sRequestType": "PUT",
+    "sRequestBody": {
+        "sClientName": "sagar",
+        "aAllowedEmailAccounts": "414abd5a-2fcf-4be2-b747-5f3dd9aea984"
+    },
+    "sResponseCode": 404,
+    "sIP": "::ffff:192.168.68.83",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}

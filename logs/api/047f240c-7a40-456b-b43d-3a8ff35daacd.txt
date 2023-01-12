@@ -1,0 +1,21 @@
+{
+    "dtRequestTime": "2023-01-12T05:14:49.422Z",
+    "sEndpoint": "/",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzM0OTkwNDEsImV4cCI6MTY3MzUwMjY0MX0.ba7ySDFdCJMOgMdKjIHAJrxsp3f3E_fdVymNThCa9iU",
+        "host": "192.168.0.74:5000",
+        "connection": "Keep-Alive",
+        "accept-encoding": "gzip",
+        "user-agent": "okhttp/3.14.9"
+    },
+    "sRequestType": "GET",
+    "sRequestBody": {},
+    "sResponseCode": 403,
+    "sIP": "::ffff:192.168.0.50",
+    "sUserAgent": {
+        "browser": "okhttp",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "okhttp/3.14.9"
+    }
+}

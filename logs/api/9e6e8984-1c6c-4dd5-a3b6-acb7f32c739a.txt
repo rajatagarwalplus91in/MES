@@ -1,0 +1,23 @@
+{
+    "dtRequestTime": "2023-01-12T05:03:45.295Z",
+    "sEndpoint": "/email-account",
+    "sHeaders": {
+        "authorization": "Beaerer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzM0OTkwNDEsImV4cCI6MTY3MzUwMjY0MX0.ba7ySDFdCJMOgMdKjIHAJrxsp3f3E_fdVymNThCa9iU",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "postman-token": "7da270fe-200d-4d24-9479-c1338e8a1751",
+        "host": "192.168.68.85:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive"
+    },
+    "sRequestType": "GET",
+    "sRequestBody": {},
+    "sResponseCode": 404,
+    "sIP": "::ffff:192.168.68.83",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}

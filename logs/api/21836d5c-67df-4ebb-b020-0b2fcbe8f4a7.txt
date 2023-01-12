@@ -1,0 +1,46 @@
+{
+    "dtRequestTime": "2023-01-11T06:03:27.817Z",
+    "sEndpoint": "/",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIn0.rCzXzbOcwSnSEanXgh-DgT9dd2Y2Tymeyzm91hX1zck",
+        "content-type": "application/json",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "postman-token": "d02d6425-5633-4c16-a4b3-3097c49c07fa",
+        "host": "192.168.68.62:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive",
+        "content-length": "421"
+    },
+    "sRequestType": "POST",
+    "sRequestBody": {
+        "sAccountName": "icic",
+        "aAllowedSenders": [
+            {
+                "sName": "n1",
+                "sEmail": "e1"
+            },
+            {
+                "sName": "n2",
+                "sEmail": "e2"
+            }
+        ],
+        "aCredentials": [
+            {
+                "sHostName": "hn",
+                "sPort": "p",
+                "sSecureProtocol": "pro",
+                "sUsername": "un",
+                "sPassword": "pass"
+            }
+        ]
+    },
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.68.83",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}

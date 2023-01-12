@@ -1,0 +1,25 @@
+{
+    "dtRequestTime": "2023-01-11T06:35:38.948Z",
+    "sEndpoint": "/8c2c6341-a8ae-411f-bc0b-f1706909231c",
+    "sHeaders": {
+        "host": "192.168.68.62:5000",
+        "connection": "keep-alive",
+        "accept": "application/json, text/plain, */*",
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzM0MTY5NjgsImV4cCI6MTY3MzQyMDU2OH0.rpY5npdjj6CcPMybtUQtIjsD7-dFwVCwD5NLda6dzcg",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+        "origin": "http://localhost:4200",
+        "referer": "http://localhost:4200/",
+        "accept-encoding": "gzip, deflate",
+        "accept-language": "en-GB,en;q=0.9"
+    },
+    "sRequestType": "DELETE",
+    "sRequestBody": {},
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.68.83",
+    "sUserAgent": {
+        "browser": "Chrome",
+        "os": "Linux 64",
+        "platform": "Linux",
+        "source": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "dtRequestTime": "2023-01-10T09:52:05.303Z",
+    "sEndpoint": "/",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIn0.rCzXzbOcwSnSEanXgh-DgT9dd2Y2Tymeyzm91hX1zck",
+        "content-type": "application/json",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "postman-token": "759c207a-b732-4997-af09-cf0526ea7831",
+        "host": "192.168.68.62:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive",
+        "content-length": "399"
+    },
+    "sRequestType": "POST",
+    "sRequestBody": {
+        "sAccountName": "aaaaaaaaaaaaaaaaaaaaaa ",
+        "aAllowedSenders": [
+            {
+                "sName": "aaaaaaaam",
+                "sEmail": "mn@plus91.in"
+            }
+        ],
+        "aCredentials": [
+            {
+                "sHostName": "email-smtp.us-west-2.amazonaws.com",
+                "sPort": "587",
+                "sSecureProtocol": "tls",
+                "sUsername": "AKIA4QTEY35AAEFQ5CFU",
+                "sPassword": "BPHF78D8AboM6d5GP/k/Os2uPJ0EQoqQnA9lddv868gv"
+            }
+        ]
+    },
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.68.83",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}
