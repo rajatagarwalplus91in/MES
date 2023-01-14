@@ -1,0 +1,23 @@
+{
+    "dtRequestTime": "2023-01-14T07:48:17.622Z",
+    "sEndpoint": "/",
+    "sHeaders": {
+        "accept": "application/json, text/plain, */*",
+        "content-type": "application/json",
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzM2ODI0OTcsImV4cCI6MTY3MzY4NjA5N30.aebh2sruKmtJaFuot3LrNu27Gj0K5unEt5cX84AHOng",
+        "user-agent": "axios/1.2.2",
+        "accept-encoding": "gzip, compress, deflate, br",
+        "host": "192.168.68.48:5000",
+        "connection": "close"
+    },
+    "sRequestType": "GET",
+    "sRequestBody": {},
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.68.48",
+    "sUserAgent": {
+        "browser": "axios",
+        "os": "iOS",
+        "platform": "unknown",
+        "source": "axios/1.2.2"
+    }
+}

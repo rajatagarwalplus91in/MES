@@ -1,0 +1,29 @@
+{
+    "dtRequestTime": "2023-01-13T05:26:59.451Z",
+    "sEndpoint": "/b833385d-b39a-406d-a8a5-ae10733e07b6",
+    "sHeaders": {
+        "host": "192.168.0.74:5000",
+        "connection": "keep-alive",
+        "content-length": "33",
+        "accept": "application/json, text/plain, */*",
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzM1ODY5ODgsImV4cCI6MTY3MzU5MDU4OH0.Bj4E0_jN8RJjtoyd1tLSL7yHEdT2Mz9EgYGlSGr0f0E",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+        "content-type": "application/json",
+        "origin": "http://localhost:4200",
+        "referer": "http://localhost:4200/",
+        "accept-encoding": "gzip, deflate",
+        "accept-language": "en-GB,en-US;q=0.9,en;q=0.8"
+    },
+    "sRequestType": "PUT",
+    "sRequestBody": {
+        "sAccountFamilyName": "birdmail"
+    },
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.0.50",
+    "sUserAgent": {
+        "browser": "Chrome",
+        "os": "Linux 64",
+        "platform": "Linux",
+        "source": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+    }
+}

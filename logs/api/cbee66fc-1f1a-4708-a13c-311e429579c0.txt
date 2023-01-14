@@ -1,0 +1,18 @@
+{
+    "dtRequestTime": "2023-01-14T06:34:57.160Z",
+    "sEndpoint": "/",
+    "sHeaders": {
+        "host": "192.168.68.48:5000",
+        "connection": "close"
+    },
+    "sRequestType": "GET",
+    "sRequestBody": {},
+    "sResponseCode": 403,
+    "sIP": "::ffff:192.168.68.48",
+    "sUserAgent": {
+        "browser": "unknown",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": ""
+    }
+}
