@@ -1,0 +1,44 @@
+{
+    "dtRequestTime": "2023-01-16T11:54:19.788Z",
+    "sEndpoint": "/",
+    "sHeaders": {
+        "host": "192.168.68.48:5000",
+        "connection": "keep-alive",
+        "content-length": "222",
+        "accept": "application/json, text/plain, */*",
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzM4NjY5ODUsImV4cCI6MTY3Mzg3MDU4NX0.RsUcFKI1d1IDV4y7iyfrhuM84xg0hJoAT1HueAKAqdk",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+        "content-type": "application/json",
+        "origin": "http://localhost:4200",
+        "referer": "http://localhost:4200/",
+        "accept-encoding": "gzip, deflate",
+        "accept-language": "en-GB,en;q=0.9"
+    },
+    "sRequestType": "POST",
+    "sRequestBody": {
+        "sAccountName": "console",
+        "aAllowedSenders": [
+            {
+                "sName": "shubham",
+                "sEmail": "shubham@gmail.com"
+            }
+        ],
+        "aCredentials": [
+            {
+                "sHostName": "shubham",
+                "sPort": 587,
+                "sSecureProtocol": "tls",
+                "sUsername": "shubham@123",
+                "sPassword": "123456789"
+            }
+        ]
+    },
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.68.83",
+    "sUserAgent": {
+        "browser": "Chrome",
+        "os": "Linux 64",
+        "platform": "Linux",
+        "source": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+    }
+}

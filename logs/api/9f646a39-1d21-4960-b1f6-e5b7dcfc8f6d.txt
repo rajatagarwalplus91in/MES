@@ -1,0 +1,25 @@
+{
+    "dtRequestTime": "2023-01-16T07:16:30.350Z",
+    "sEndpoint": "/0020d2f9-a436-438e-bc5c-121f2fa483d2",
+    "sHeaders": {
+        "host": "192.168.68.48:5000",
+        "connection": "keep-alive",
+        "accept": "application/json, text/plain, */*",
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzM4NTMzODYsImV4cCI6MTY3Mzg1Njk4Nn0.ZlG4W4FRHC46NxnPuQ-R12FMSibEDLWJ0Nga_ZY9vqw",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+        "origin": "http://localhost:36497",
+        "referer": "http://localhost:36497/",
+        "accept-encoding": "gzip, deflate",
+        "accept-language": "en-GB,en;q=0.9"
+    },
+    "sRequestType": "GET",
+    "sRequestBody": {},
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.68.83",
+    "sUserAgent": {
+        "browser": "Chrome",
+        "os": "Linux 64",
+        "platform": "Linux",
+        "source": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+    }
+}

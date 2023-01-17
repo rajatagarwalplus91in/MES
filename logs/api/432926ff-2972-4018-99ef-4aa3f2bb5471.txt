@@ -1,0 +1,45 @@
+{
+    "dtRequestTime": "2023-01-17T06:42:00.456Z",
+    "sEndpoint": "/",
+    "sHeaders": {
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwic0NsaWVudElEIjoiMDhhYzk0YWYtZjFhNi00MjhlLTg2NDEtNDQ4MjlmZWJjNGM2Iiwic0NsaWVudFNlY3JldCI6ImU1ZjVlMDUwODczMDFhNGVjYTdkYjAxNjAyMjQ1ZGE1In0.J3g6W7c9_3SFlcgd62_817Qvmx1Wo4HHGReVI2FEx8I",
+        "content-type": "application/json",
+        "user-agent": "PostmanRuntime/7.30.0",
+        "accept": "*/*",
+        "cache-control": "no-cache",
+        "postman-token": "f286e95f-6c27-4310-bb2f-f8f5820f3493",
+        "host": "localhost:5000",
+        "accept-encoding": "gzip, deflate, br",
+        "connection": "keep-alive",
+        "content-length": "3319"
+    },
+    "sRequestType": "POST",
+    "sRequestBody": {
+        "sClientID": "08ac94af-f1a6-428e-8641-44829febc4c6",
+        "sEmailSubject": "attachment Mail",
+        "sEmailBody": "This is Testin mail to test attcamnet",
+        "bIsMarketingEmail": "true",
+        "aRecipients": [
+            {
+                "sName": "Rajat Agarwal",
+                "sEmail": "rajat.agarwal@plus91.in"
+            }
+        ],
+        "oSender": {
+            "sName": "AKIA4QTEY35AAEFQ5CFU",
+            "sEmail": "AppAlerts@plus91.in"
+        },
+        "aAttachments": {
+            "sFileName": "app.txt",
+            "sFileContent": "Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3QgcG9ydCA9IHByb2Nlc3MuZW52LnBvcnQgfHwgNTAwMDsKY29uc3QgYXBwID0gZXhwcmVzcygpOyAKCi8vQXBpIE1pZGRsZXdhcmVzCmFwcC51c2UoZXhwcmVzcy5qc29uKCkpOwphcHAudXNlKGV4cHJlc3MudXJsZW5jb2RlZCgpKTsKYXBwLnVzZShleHByZXNzLnN0YXRpYygncHVibGljJykpOyAKY29uc3QgSGVhbHRoQWRkcmVzc0NyZWF0aW9uID0gcmVxdWlyZSgnL2hvbWUvcGx1czkxL0Rlc2t0b3AvUmFqYXQvUHJhY3QvU2VydmljZXMvSGVhbHRoQWRkcmVzc0NyZWF0aW9uJyk7CgoKLy9BUEkgUk9VVEVTCgphcHAuZ2V0KCcvJywocmVxLHJlcyk9PnsKICAgIHJlcy5zZW5kRmlsZShfX2Rpcm5hbWUgKyAnL3B1YmxpYy9pbmRleC5odG1sJyk7CiAgICAKfSk7CgphcHAucG9zdCgnL2dlbmVyYXRlT1RQJywgYXN5bmMocmVxLHJlcyk9PnsgCiAgICB2YXIgYWFkaGFhciA9IHJlcS5ib2R5LmFhZGhhYXI7ICAgCiAgICBhUmVzcG9uc2UgPSBhd2FpdCAgSGVhbHRoQWRkcmVzc0NyZWF0aW9uLmdlbmVyYXRlT1RQKGFhZGhhYXIpOwogICAgcmVzLmpzb24oYVJlc3BvbnNlKTsKfSk7CgphcHAucG9zdCgnL3Jlc2VuZEFhZGhhYXJPdHAnLCBhc3luYyhyZXEscmVzKT0+ewogICAgdmFyIHR4bklkID0gcmVxLmJvZHkuc1R4bk5vOwogICAgYVJlc3BvbnNlID0gYXdhaXQgSGVhbHRoQWRkcmVzc0NyZWF0aW9uLnJlc2VuZEFhZGhhYXJPdHAodHhuSWQpOwogICAgcmVzLmpzb24oYVJlc3BvbnNlKTsKfSk7CgphcHAucG9zdCgnL3ZlcmlmeU9UUCcsYXN5bmMocmVxLHJlcyk9PnsKICAgIHZhciBvdHAgPSByZXEuYm9keS5zb3RwOwogICAgdmFyIHR4bklkID0gcmVxLmJvZHkuc1R4bk5vOwogICAgYVJlc3BvbnNlID0gYXdhaXQgSGVhbHRoQWRkcmVzc0NyZWF0aW9uLnZlcmlmeU9UUChvdHAsdHhuSWQpOwogICAgcmVzLmpzb24oYVJlc3BvbnNlKTsKfSk7CgphcHAucG9zdCgnL2dlbmVyYXRlTW9iaWxlT1RQJyxhc3luYyhyZXEscmVzKT0+ewogICAgdmFyIG1vYmlsZSA9IHJlcS5ib2R5Lm1vYmlsZTsKICAgIHZhciB0eG5JZCA9IHJlcS5ib2R5LnNUeG5ObzsKICAgIGFSZXNwb25zZSA9IGF3YWl0IEhlYWx0aEFkZHJlc3NDcmVhdGlvbi5nZW5lcmF0ZU1vYmlsZU9UUChtb2JpbGUsdHhuSWQpOwogICAgcmVzLmpzb24oYVJlc3BvbnNlKTsKfSk7CgphcHAucG9zdCgnL3ZlcmlmeU1vYmlsZU9UUCcsYXN5bmMocmVxLHJlcyk9PnsKICAgIHZhciBvdHAgPSByZXEuYm9keS5vdHA7CiAgICB2YXIgdHhuSWQgPSByZXEuYm9keS5zVHhuTm87CiAgICBhUmVzcG9uc2UgPSBhd2FpdCBIZWFsdGhBZGRyZXNzQ3JlYXRpb24udmVyaWZ5TW9iaWxlT1RQKG90cCx0eG5JZCk7CiAgICByZXMuanNvbihhUmVzcG9uc2UpOwp9KTsKCmFwcC5wb3N0KCcvY3JlYXRlSGVhbHRoSWRXaXRoUHJlVmVyaWZpZWQnLGFzeW5jKHJlcSxyZXMpPT57CiAgICB2YXIgdHhuSWQgPSByZXEuYm9keS5zVHhuTm87CiAgICB2YXIgYUhlYWx0aElERGF0YSA9IHJlcS5ib2R5LmRhdGE7CiAgICBhUmVzcG9uc2UgPSBhd2FpdCBIZWFsdGhBZGRyZXNzQ3JlYXRpb24uY3JlYXRlSGVhbHRoSWRXaXRoUHJlVmVyaWZpZWQodHhuSWQsYUhlYWx0aElERGF0YSk7CiAgICByZXMuanNvbihhUmVzcG9uc2UpOwp9KTsKCmFwcC5wb3N0KCcvcGhyLWxpbmtlZCcsYXN5bmMocmVxLHJlcyk9PnsKICAgIHZhciBwaHJBZGRyZXNzID0gcmVxLmJvZHkucGhyQWRkcmVzczsKICAgIHJlcy5qc29uKGF3YWl0IEhlYWx0aEFkZHJlc3NDcmVhdGlvbi5waHJfbGlua2VkKHBockFkZHJlc3MpKTsKfSk7CgphcHAuZ2V0KCcvZ2V0UG5nQ2FyZCcsYXN5bmMocmVxLHJlcyk9PnsKICAgIHZhciBzSGVhbHRoSUQgPSByZXEuYm9keS5zSGVhbHRoSUQ7CiAgICB2YXIgWF90b2tlbiA9IHJlcS5ib2R5LnhUb2tlbjsKICAgIGFSZXNwb25zZSA9IGF3YWl0IEhlYWx0aEFkZHJlc3NDcmVhdGlvbi5nZXRQbmdDYXJkKHNIZWFsdGhJRCxYX3Rva2VuKTsKICAgIHJlcy5qc29uKGFSZXNwb25zZSk7Cn0pOwoKYXBwLmxpc3Rlbihwb3J0LCgpPT57CiAgICBjb25zb2xlLmxvZyhgc2VydmVyIHN0YXJ0ZWQgYXQgaHR0cDovL2xvY2FsaG9zdDoke3BvcnR9YCk7Cn0pOwo="
+        }
+    },
+    "sResponseCode": 200,
+    "sIP": "::1",
+    "sUserAgent": {
+        "browser": "PostmanRuntime",
+        "os": "unknown",
+        "platform": "unknown",
+        "source": "PostmanRuntime/7.30.0"
+    }
+}

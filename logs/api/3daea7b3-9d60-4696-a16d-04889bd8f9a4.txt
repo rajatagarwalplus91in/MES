@@ -1,0 +1,48 @@
+{
+    "dtRequestTime": "2023-01-16T10:06:25.038Z",
+    "sEndpoint": "/b30399b2-3c4b-4b57-8d5b-d96eef68136d",
+    "sHeaders": {
+        "host": "192.168.68.48:5000",
+        "connection": "keep-alive",
+        "content-length": "260",
+        "accept": "application/json, text/plain, */*",
+        "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NzM4NjA3OTcsImV4cCI6MTY3Mzg2NDM5N30.p2IA9JcrcIi0R2C3BZHDNfUzIzkACxSy7ooRiRUitJo",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
+        "content-type": "application/json",
+        "origin": "http://localhost:36497",
+        "referer": "http://localhost:36497/",
+        "accept-encoding": "gzip, deflate",
+        "accept-language": "en-GB,en;q=0.9"
+    },
+    "sRequestType": "PUT",
+    "sRequestBody": {
+        "sAccountName": "alphabet",
+        "aAllowedSenders": [
+            {
+                "sName": "abc",
+                "sEmail": "abc@gmail.com"
+            },
+            {
+                "sName": "def",
+                "sEmail": "def@gmail.com"
+            }
+        ],
+        "aCredentials": [
+            {
+                "sHostName": "letters",
+                "sPort": "587",
+                "sSecureProtocol": "tls",
+                "sUsername": "alphabet_123",
+                "sPassword": "1234567890"
+            }
+        ]
+    },
+    "sResponseCode": 200,
+    "sIP": "::ffff:192.168.68.83",
+    "sUserAgent": {
+        "browser": "Chrome",
+        "os": "Linux 64",
+        "platform": "Linux",
+        "source": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+    }
+}
